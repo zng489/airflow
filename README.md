@@ -23,11 +23,8 @@ https://www.youtube.com/watch?v=i25ttd32-eo&t=769s
     - options = "metadata"
     - CTRL + S
     - CTRL + X
-   - cd
-   - ls
-   - cd
-   - ls
-   - Folder c
+   - Acessing the folders:
+    - cd .. > ls > cd .. > ls > folder c   
    - 
 
 
