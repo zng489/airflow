@@ -23,9 +23,13 @@ https://www.youtube.com/watch?v=i25ttd32-eo&t=769s
     - options = "metadata"
     - CTRL + S
     - CTRL + X
-   - Acessing the folders:
+  - Acessing the folders
     - cd .. > ls > cd .. > ls > folder c   
-   - 
+  - cd home/<name>/, in this case cd home/ZNG-Lenovo/
+  - python3 --version
+  - sudo apt update
+  
+  
 
 
 
