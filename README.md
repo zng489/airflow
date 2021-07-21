@@ -34,6 +34,13 @@ https://www.youtube.com/watch?v=i25ttd32-eo&t=769s
   - pip or pip3 install cryptography==2.9.2
   - pip3 install pyspark==2.4.5
   - export AIRFLOW_HOME=/c/Users/ZNG-Lenovo/airflow
+  - nano ~/.bashrc
+  - export AIRFLOW_HOME=/c/Users/ZNG-Lenovo/airflow
+  - airflow version
+  - echo $AIRFLOW_HOME
+  - airflow initdb
+  - airflow webserver
+  
   
   
   
