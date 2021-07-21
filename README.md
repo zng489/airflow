@@ -52,7 +52,7 @@ https://www.youtube.com/watch?v=i25ttd32-eo&t=769s Karolina Sowinska
 
 - Compiling DAG
   - Ubuntu
-  - cd.. > ls
+  - cd.. > cd c > c(C:) > DAG
   
   
   
