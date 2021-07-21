@@ -4,9 +4,9 @@
 
 https://www.youtube.com/watch?v=CLUhL6-RpqU BigDatapedia ML & DS
 
-https://www.youtube.com/watch?v=M521KLHGaZc datastacktv
+https://www.youtube.com/watch?v=M521KLHGaZc Datastacktv
 
-https://www.youtube.com/watch?v=i25ttd32-eo&t=769s
+https://www.youtube.com/watch?v=i25ttd32-eo&t=769s Karolina Sowinska
 
 
 - Tutorial step by step:
