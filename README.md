@@ -25,7 +25,7 @@ https://www.youtube.com/watch?v=i25ttd32-eo&t=769s
     - CTRL + X
   - Acessing the folders
     - cd .. > ls > cd .. > ls > folder c   
-  - cd home/<name>/, in this case cd home/ZNG-Lenovo/
+  - cd home/name/, in this case cd home/ZNG-Lenovo/
   - python3 --version
   - sudo apt update
   - sudo apt install python3-pip
