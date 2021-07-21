@@ -16,7 +16,10 @@ https://www.youtube.com/watch?v=i25ttd32-eo&t=769s
   - Ubuntu WSL
   - sudo apt update && sudo apt upgrade
   - sudo nano /etc/wsl/conf
-  - GNU nano 4.8: [automount] root = / options = "metadata"
+  - GNU nano 4.8: 
+    - [automount] 
+    - root = / 
+    - options = "metadata"
 
 
 
