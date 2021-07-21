@@ -10,7 +10,9 @@ https://www.youtube.com/watch?v=i25ttd32-eo&t=769s
 
 
 - Tutorial step by step:
-  - asdasdsaa
+  - Windows PowerShell > dism.exe /omline /enable-feature /featurename:Microsoft-Windows-Subsystem-Linux /all /norestart
+  - Restart
+  - 
 
 
 
