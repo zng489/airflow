@@ -12,7 +12,11 @@ https://www.youtube.com/watch?v=i25ttd32-eo&t=769s
 - Tutorial step by step:
   - Windows PowerShell > dism.exe /omline /enable-feature /featurename:Microsoft-Windows-Subsystem-Linux /all /norestart
   - Restart
-  - Local Disck (C:) > Users > ZNG-Lenovo           Creating AirFlow Folder
+  - Local Disck (C:) > Users > ZNG-Lenovo /Creating AirFlow Folder
+  - Ubuntu WSL
+  - sudo apt update && sudo apt upgrade
+  - sudo nano /etc/wsl/conf
+  - GNU nano 4.8: [automount] root = / options = "metadata"
 
 
 
