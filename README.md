@@ -45,7 +45,9 @@ https://www.youtube.com/watch?v=i25ttd32-eo&t=769s Karolina Sowinska
   - airflow initdb
   - airflow webserver
   - airflow.cfg > load_examples = changing True to False
-  
+
+- Getting in the Ubuntu folder
+  - C:\Users\Zng-LENOVO\AppData\Local\Packages\CanonicalGroupLimited.UbuntuonWindows_79rhkp1fndgsc\LocalState\rootfs 
   
   
   
