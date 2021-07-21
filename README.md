@@ -2,6 +2,10 @@
 
 - Unfortunately, AirFlow just works in linux system, then to work with it you have to do some procedure before. Let's get started!!.
 
+https://towardsdatascience.com/getting-started-with-apache-airflow-df1aa77d7b1b
+
+https://medium.com/@ryanroline/installing-apache-airflow-on-windows-10-5247aa1249ef
+
 https://www.youtube.com/watch?v=CLUhL6-RpqU BigDatapedia ML & DS
 
 https://www.youtube.com/watch?v=M521KLHGaZc Datastacktv
