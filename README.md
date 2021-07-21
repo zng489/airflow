@@ -40,6 +40,8 @@ https://www.youtube.com/watch?v=i25ttd32-eo&t=769s
   - echo $AIRFLOW_HOME
   - airflow initdb
   - airflow webserver
+  - airflow.cfg
+   - load_examples = changing True to False
   
   
   
