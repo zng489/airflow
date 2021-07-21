@@ -28,6 +28,13 @@ https://www.youtube.com/watch?v=i25ttd32-eo&t=769s
   - cd home/<name>/, in this case cd home/ZNG-Lenovo/
   - python3 --version
   - sudo apt update
+  - sudo apt install python3-pip
+  - pip3 --version
+  - pip3 install apache-airflow[gcp,statsd,sentry]==1.10.10
+  - pip or pip3 install cryptography==2.9.2
+  - pip3 install pyspark==2.4.5
+  - export AIRFLOW_HOME=/c/Users/ZNG-Lenovo/airflow
+  
   
   
 
