@@ -54,6 +54,7 @@ https://www.youtube.com/watch?v=SYOUbiGtGiU&t=114s
 - Compiling DAG
   - Ubuntu
   - cd.. > cd c > c(C:) > ls > DAG
+  - dag = DAG('Zhang_teste'....)
   
   
   
