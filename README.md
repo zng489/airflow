@@ -12,6 +12,7 @@ https://www.youtube.com/watch?v=M521KLHGaZc Datastacktv
 
 https://www.youtube.com/watch?v=i25ttd32-eo&t=769s Karolina Sowinska
 
+https://www.youtube.com/watch?v=SYOUbiGtGiU&t=114s
 
 - Tutorial step by step:
   - Windows PowerShell > dism.exe /omline /enable-feature /featurename:Microsoft-Windows-Subsystem-Linux /all /norestart
