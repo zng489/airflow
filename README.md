@@ -50,6 +50,7 @@ https://www.youtube.com/watch?v=SYOUbiGtGiU&t=114s
 - Getting in the Ubuntu folder
   - C:\Users\Zng-LENOVO\AppData\Local\Packages\CanonicalGroupLimited.UbuntuonWindows_79rhkp1fndgsc\LocalState\rootfs 
 
+<ul>http://localhost:8080/admin/</ul>
 
 - Compiling DAG
   - Ubuntu
