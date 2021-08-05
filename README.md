@@ -57,8 +57,9 @@ https://www.youtube.com/watch?v=SYOUbiGtGiU&t=114s
   - cd.. > cd c > c(C:) > ls > DAG
   - dag = DAG('Zhang_teste'....)
   
-  
-  
+<ul>http://localhost:8080/admin/</ul> 
+  -----
+  https://medium.com/gbtech/usando-apache-airflow-para-orquestrar-web-scraping-de-tabela-de-c%C3%A2mbios-especiais-do-banco-central-f145c2bcdc07
 
 
 
