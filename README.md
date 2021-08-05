@@ -51,6 +51,7 @@ https://www.youtube.com/watch?v=SYOUbiGtGiU&t=114s
   - C:\Users\Zng-LENOVO\AppData\Local\Packages\CanonicalGroupLimited.UbuntuonWindows_79rhkp1fndgsc\LocalState\rootfs 
 
 <ul>http://localhost:8080/admin/</ul>
+airflow scheduler
 
 - Compiling DAG
   - Ubuntu
@@ -62,4 +63,4 @@ https://www.youtube.com/watch?v=SYOUbiGtGiU&t=114s
   https://medium.com/gbtech/usando-apache-airflow-para-orquestrar-web-scraping-de-tabela-de-c%C3%A2mbios-especiais-do-banco-central-f145c2bcdc07
 
 
-
+C:\Users\Zng-LENOVO\AppData\Local\Packages\CanonicalGroupLimited.UbuntuonWindows_79rhkp1fndgsc\LocalState\rootfs\home\zng-lenovo
