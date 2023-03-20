@@ -1,0 +1,16 @@
+get into the folder first
+C:\airflow-docker
+
+docker-compose up airflow-init
+
+docker-compose up
+
+
+airflow-webserver:
+	<<: *airflow-common
+    	command: webserver
+    	ports:
+      	- 8080:8080
+
+user: airflow
+password: airflow
