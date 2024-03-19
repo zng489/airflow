@@ -1,0 +1,10 @@
+FROM apache/airflow:2.6.0
+# FROM apache/airflow:1.10.9
+#ADD requirements.txt .
+COPY requirements.txt /requirements.txt
+RUN pip install --user --upgrade pip
+RUN pip install --no-cache-dir --user -r /requirements.txt 
+#RUN pip install apache-airflow==${AIRFLOW_VERSION} -r requirements.txt
+#https://stackoverflow.com/questions/67887138/how-to-install-packages-in-airflow-docker-compose
+
+# Customize the airflow.cfg file
