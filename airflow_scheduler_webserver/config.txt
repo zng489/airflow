@@ -1,0 +1,11 @@
+# airflow_252_dbt_airflow-scheduler-1
+>> docker 
+>> opt
+>> airflow
+>> airflow.cfg
+>> allowed_deserialization_classes = ['astro.table.TempTable']
+
+
+
+docker build . --tag apache/airflow:2.6.0
+docker-compose up -d

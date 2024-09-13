@@ -1,0 +1,13 @@
+{
+  "type": "service_account",
+  "project_id": "oppai-data-challenge",
+  "private_key_id": "9d987fd8259c47644c57807fd9b9619a2464261c",
+  "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvgIBADANBgkqhkiG9w0BAQEFAASCBKgwggSkAgEAAoIBAQCz5xpbBnukmjpR\n7Ok1hTxOpleK72b4W8FW7hTPB44zLwXcqdysrxuB+ggsBZGHJIGSeKgSWmm4l92x\n9wi9umcb6SO79AyDZ7Q5vAmt7D1E3nVbnmLEB9Qi1m2h1eopRgeIrHgK/s1WmpvT\n6c9XV+Zi/zf+IFvqWBoxKF9htyEabVwkVU1siBDWtLtJ3tXoG7UDwsL6Z3tdLVNn\nQQLZyJ869o5y2gDj7C8U53lQu7ZXRPAIIUhsRW0qsK3OWHlkfEOksl/PR43yja2V\nFqalcRlyAidWXWAXipjo0kFTvcwRoHa/waVFRqf+aJ7rk8DhONvrWHudeZy6llUE\nIsDNZmKRAgMBAAECggEASICe0ohuVAwD7Ph5lCQ6BchsB4YsDXONG6efoz/8Qwx0\nZFXgpYd8oolNudAUsk44GfueYKcnbEloA0z3rN7upwTybdERKfQlYg8yJ3HJz3OI\nAIB4dWBiUhfw3wQC9tdOOfqn9mZyArEUk/bqpNy78LHCsxv/bxZKl/0ZU5wmLyut\nol4EvsQI5DHG1WzK6BChOit2785Y0jQmuJHCA+zF4ygC46avzc9gwWIhbluz2nCz\nh+d0lkM83eJ2FApJAI7GRiTfBkFS9LIkbl/ysEmCOpddDcdZPOTX6yVpctnohMzO\nA6eOoBvsvtiIMGA7Bg5QAqLRuli8VNufGnoVbhbE8QKBgQDwCqv16sLMQrh1ftoj\nW5ULL2UH+IjGEGkUgp2wJpS58rTXDUIxsa831Nck2Q6SxgVKaO/AfT9O22OhqPug\nFHjSS8D+W11pQXnSfcR+C/uQ+5NsYNQxPbM4rs8mdY1d0CyaWZX0HXHGkgZk2dRv\nsytuYZqatQWDxWKoKn/o/cGDMwKBgQC/3OlwCneJbovZKqEh2ZsVMi72fOoP0rVZ\nU9ORJIBLU4U7/pCuUHK3HesBdKQpXLWk/uNnd2FuSCx7FQlxpvBDR4sX6gFkzFKJ\nUdJSn8bZQkVnl42I6XIPs218GebP5EZbLGNENuNzLDTf/0njSGc9EOf6wajMkKHc\nUsgaJTVDKwKBgQDN8/oS5zf31Y86kHpNN/irPiDrM9z2Q4JFLMRrLM8StCFhGmkf\nBhsWRjHJ1cphODG15E9A0rWMzUOworIyaR45IPIXywBcnOcPKQV8OH/Bp3iX1oR5\nMz0gdywZDWcbhM+gJxk3+EN0YjnGMffJVur+rBPghUyUALljHAPfPknYbQKBgCI1\nXDXK1/dcC3lD/YjQiLMlyHPQX9dEZWsw5Ab78Bf+I0JIKDm8REfcALu4tVBepFBv\n1dHr2iZUngGwBYgLEMmeJvGzml4DhC/Rs+Nhc43nIALRZb3kiZ69CidXYuzsMZMt\n/eD6vGEbn63UkbMBhM7BhesSvmsC2qky5VSsD6wTAoGBAKSf0+/qPTq/aFsi1k/m\n+U5KmMY+inN0wUXpS9U7gvYcb5uSa9kkpNSk1Z/RaDcDOwxHUBU4u6TJ+OjBxarA\nvQPwP5nMFcuxouqI0rcP0fAwVS+2EeEvm1NhPOUwgn3RHXa5HeyoU51MrsP3nEqK\nLqv/8lRal0Y3yBOVAKP0Yh/3\n-----END PRIVATE KEY-----\n",
+  "client_email": "oppai-data-598@oppai-data-challenge.iam.gserviceaccount.com",
+  "client_id": "112823735581178250437",
+  "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+  "token_uri": "https://oauth2.googleapis.com/token",
+  "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+  "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/oppai-data-598%40oppai-data-challenge.iam.gserviceaccount.com",
+  "universe_domain": "googleapis.com"
+}
