@@ -1,0 +1,28 @@
+[2024-09-30T19:50:11.663+0000] {processor.py:156} INFO - Started process (PID=82) to work on /opt/airflow/dags/incremental_nlp_posts.py
+[2024-09-30T19:50:11.664+0000] {processor.py:799} INFO - Processing file /opt/airflow/dags/incremental_nlp_posts.py for tasks to queue
+[2024-09-30T19:50:11.665+0000] {logging_mixin.py:149} INFO - [2024-09-30T19:50:11.664+0000] {dagbag.py:541} INFO - Filling up the DagBag from /opt/airflow/dags/incremental_nlp_posts.py
+[2024-09-30T19:50:11.668+0000] {logging_mixin.py:149} INFO - [2024-09-30T19:50:11.667+0000] {dagbag.py:350} ERROR - Failed to import: /opt/airflow/dags/incremental_nlp_posts.py
+Traceback (most recent call last):
+  File "/home/airflow/.local/lib/python3.7/site-packages/airflow/models/dagbag.py", line 346, in parse
+    loader.exec_module(new_module)
+  File "<frozen importlib._bootstrap_external>", line 728, in exec_module
+  File "<frozen importlib._bootstrap>", line 219, in _call_with_frames_removed
+  File "/opt/airflow/dags/incremental_nlp_posts.py", line 2, in <module>
+    from Senior_Data_Analyst_Challenge.ingestion_incremental.ingestion_inicial import main
+ModuleNotFoundError: No module named 'Senior_Data_Analyst_Challenge'
+[2024-09-30T19:50:11.668+0000] {processor.py:811} WARNING - No viable dags retrieved from /opt/airflow/dags/incremental_nlp_posts.py
+[2024-09-30T19:50:11.708+0000] {processor.py:178} INFO - Processing /opt/airflow/dags/incremental_nlp_posts.py took 0.049 seconds
+[2024-09-30T19:50:46.964+0000] {processor.py:156} INFO - Started process (PID=142) to work on /opt/airflow/dags/incremental_nlp_posts.py
+[2024-09-30T19:50:46.965+0000] {processor.py:799} INFO - Processing file /opt/airflow/dags/incremental_nlp_posts.py for tasks to queue
+[2024-09-30T19:50:46.966+0000] {logging_mixin.py:149} INFO - [2024-09-30T19:50:46.966+0000] {dagbag.py:541} INFO - Filling up the DagBag from /opt/airflow/dags/incremental_nlp_posts.py
+[2024-09-30T19:50:46.969+0000] {logging_mixin.py:149} INFO - [2024-09-30T19:50:46.968+0000] {dagbag.py:350} ERROR - Failed to import: /opt/airflow/dags/incremental_nlp_posts.py
+Traceback (most recent call last):
+  File "/home/airflow/.local/lib/python3.7/site-packages/airflow/models/dagbag.py", line 346, in parse
+    loader.exec_module(new_module)
+  File "<frozen importlib._bootstrap_external>", line 728, in exec_module
+  File "<frozen importlib._bootstrap>", line 219, in _call_with_frames_removed
+  File "/opt/airflow/dags/incremental_nlp_posts.py", line 2, in <module>
+    from Senior_Data_Analyst_Challenge.ingestion_incremental.ingestion_inicial import main
+ModuleNotFoundError: No module named 'Senior_Data_Analyst_Challenge'
+[2024-09-30T19:50:46.970+0000] {processor.py:811} WARNING - No viable dags retrieved from /opt/airflow/dags/incremental_nlp_posts.py
+[2024-09-30T19:50:47.000+0000] {processor.py:178} INFO - Processing /opt/airflow/dags/incremental_nlp_posts.py took 0.039 seconds

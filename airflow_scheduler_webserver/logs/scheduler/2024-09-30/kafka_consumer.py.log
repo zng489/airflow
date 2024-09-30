@@ -1,0 +1,10 @@
+[2024-09-30T19:50:03.296+0000] {processor.py:156} INFO - Started process (PID=39) to work on /opt/airflow/dags/kafka_consumer.py
+[2024-09-30T19:50:03.297+0000] {processor.py:799} INFO - Processing file /opt/airflow/dags/kafka_consumer.py for tasks to queue
+[2024-09-30T19:50:03.297+0000] {logging_mixin.py:149} INFO - [2024-09-30T19:50:03.297+0000] {dagbag.py:541} INFO - Filling up the DagBag from /opt/airflow/dags/kafka_consumer.py
+[2024-09-30T19:50:03.890+0000] {processor.py:811} WARNING - No viable dags retrieved from /opt/airflow/dags/kafka_consumer.py
+[2024-09-30T19:50:03.905+0000] {processor.py:178} INFO - Processing /opt/airflow/dags/kafka_consumer.py took 0.611 seconds
+[2024-09-30T19:50:34.139+0000] {processor.py:156} INFO - Started process (PID=100) to work on /opt/airflow/dags/kafka_consumer.py
+[2024-09-30T19:50:34.140+0000] {processor.py:799} INFO - Processing file /opt/airflow/dags/kafka_consumer.py for tasks to queue
+[2024-09-30T19:50:34.140+0000] {logging_mixin.py:149} INFO - [2024-09-30T19:50:34.140+0000] {dagbag.py:541} INFO - Filling up the DagBag from /opt/airflow/dags/kafka_consumer.py
+[2024-09-30T19:50:34.831+0000] {processor.py:811} WARNING - No viable dags retrieved from /opt/airflow/dags/kafka_consumer.py
+[2024-09-30T19:50:34.863+0000] {processor.py:178} INFO - Processing /opt/airflow/dags/kafka_consumer.py took 0.728 seconds

@@ -1,0 +1,28 @@
+[2024-09-30T19:50:04.076+0000] {processor.py:156} INFO - Started process (PID=43) to work on /opt/airflow/dags/incremental_users.py
+[2024-09-30T19:50:04.081+0000] {processor.py:799} INFO - Processing file /opt/airflow/dags/incremental_users.py for tasks to queue
+[2024-09-30T19:50:04.082+0000] {logging_mixin.py:149} INFO - [2024-09-30T19:50:04.082+0000] {dagbag.py:541} INFO - Filling up the DagBag from /opt/airflow/dags/incremental_users.py
+[2024-09-30T19:50:04.117+0000] {logging_mixin.py:149} INFO - [2024-09-30T19:50:04.102+0000] {dagbag.py:350} ERROR - Failed to import: /opt/airflow/dags/incremental_users.py
+Traceback (most recent call last):
+  File "/home/airflow/.local/lib/python3.7/site-packages/airflow/models/dagbag.py", line 346, in parse
+    loader.exec_module(new_module)
+  File "<frozen importlib._bootstrap_external>", line 728, in exec_module
+  File "<frozen importlib._bootstrap>", line 219, in _call_with_frames_removed
+  File "/opt/airflow/dags/incremental_users.py", line 2, in <module>
+    from Senior_Data_Analyst_Challenge.ingestion_incremental.ingestion_inicial import main
+ModuleNotFoundError: No module named 'Senior_Data_Analyst_Challenge'
+[2024-09-30T19:50:04.118+0000] {processor.py:811} WARNING - No viable dags retrieved from /opt/airflow/dags/incremental_users.py
+[2024-09-30T19:50:04.222+0000] {processor.py:178} INFO - Processing /opt/airflow/dags/incremental_users.py took 0.159 seconds
+[2024-09-30T19:50:34.770+0000] {processor.py:156} INFO - Started process (PID=105) to work on /opt/airflow/dags/incremental_users.py
+[2024-09-30T19:50:34.771+0000] {processor.py:799} INFO - Processing file /opt/airflow/dags/incremental_users.py for tasks to queue
+[2024-09-30T19:50:34.772+0000] {logging_mixin.py:149} INFO - [2024-09-30T19:50:34.771+0000] {dagbag.py:541} INFO - Filling up the DagBag from /opt/airflow/dags/incremental_users.py
+[2024-09-30T19:50:34.775+0000] {logging_mixin.py:149} INFO - [2024-09-30T19:50:34.774+0000] {dagbag.py:350} ERROR - Failed to import: /opt/airflow/dags/incremental_users.py
+Traceback (most recent call last):
+  File "/home/airflow/.local/lib/python3.7/site-packages/airflow/models/dagbag.py", line 346, in parse
+    loader.exec_module(new_module)
+  File "<frozen importlib._bootstrap_external>", line 728, in exec_module
+  File "<frozen importlib._bootstrap>", line 219, in _call_with_frames_removed
+  File "/opt/airflow/dags/incremental_users.py", line 2, in <module>
+    from Senior_Data_Analyst_Challenge.ingestion_incremental.ingestion_inicial import main
+ModuleNotFoundError: No module named 'Senior_Data_Analyst_Challenge'
+[2024-09-30T19:50:34.775+0000] {processor.py:811} WARNING - No viable dags retrieved from /opt/airflow/dags/incremental_users.py
+[2024-09-30T19:50:34.812+0000] {processor.py:178} INFO - Processing /opt/airflow/dags/incremental_users.py took 0.045 seconds

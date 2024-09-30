@@ -45,6 +45,9 @@ astro-sdk-python[postgres]
 mysql-connector-python
 mysqlclient
 mysql
+azure-storage-blob
+azure-storage-file-datalake
+python-dotenv
 #markupsafe==2.0.1 
 #wtforms==2.2
 # amazon,google,snowflake,

@@ -1,0 +1,14 @@
+[2024-09-30T19:50:06.373+0000] {processor.py:156} INFO - Started process (PID=51) to work on /opt/airflow/dags/astro_python_mysql.py
+[2024-09-30T19:50:06.374+0000] {processor.py:799} INFO - Processing file /opt/airflow/dags/astro_python_mysql.py for tasks to queue
+[2024-09-30T19:50:06.375+0000] {logging_mixin.py:149} INFO - [2024-09-30T19:50:06.374+0000] {dagbag.py:541} INFO - Filling up the DagBag from /opt/airflow/dags/astro_python_mysql.py
+[2024-09-30T19:50:07.329+0000] {processor.py:809} INFO - DAG(s) dict_keys(['example_transform_mssql']) retrieved from /opt/airflow/dags/astro_python_mysql.py
+[2024-09-30T19:50:07.346+0000] {logging_mixin.py:149} INFO - [2024-09-30T19:50:07.345+0000] {dag.py:2726} INFO - Sync 1 DAGs
+[2024-09-30T19:50:07.632+0000] {logging_mixin.py:149} INFO - [2024-09-30T19:50:07.632+0000] {dag.py:3490} INFO - Setting next_dagrun for example_transform_mssql to None, run_after=None
+[2024-09-30T19:50:07.656+0000] {processor.py:178} INFO - Processing /opt/airflow/dags/astro_python_mysql.py took 1.287 seconds
+[2024-09-30T19:50:37.801+0000] {processor.py:156} INFO - Started process (PID=113) to work on /opt/airflow/dags/astro_python_mysql.py
+[2024-09-30T19:50:37.802+0000] {processor.py:799} INFO - Processing file /opt/airflow/dags/astro_python_mysql.py for tasks to queue
+[2024-09-30T19:50:37.802+0000] {logging_mixin.py:149} INFO - [2024-09-30T19:50:37.802+0000] {dagbag.py:541} INFO - Filling up the DagBag from /opt/airflow/dags/astro_python_mysql.py
+[2024-09-30T19:50:39.561+0000] {processor.py:809} INFO - DAG(s) dict_keys(['example_transform_mssql']) retrieved from /opt/airflow/dags/astro_python_mysql.py
+[2024-09-30T19:50:39.767+0000] {logging_mixin.py:149} INFO - [2024-09-30T19:50:39.766+0000] {dag.py:2726} INFO - Sync 1 DAGs
+[2024-09-30T19:50:39.856+0000] {logging_mixin.py:149} INFO - [2024-09-30T19:50:39.855+0000] {dag.py:3490} INFO - Setting next_dagrun for example_transform_mssql to None, run_after=None
+[2024-09-30T19:50:39.981+0000] {processor.py:178} INFO - Processing /opt/airflow/dags/astro_python_mysql.py took 2.183 seconds

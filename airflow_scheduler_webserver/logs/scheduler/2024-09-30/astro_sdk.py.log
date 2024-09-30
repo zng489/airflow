@@ -1,0 +1,14 @@
+[2024-09-30T19:50:12.591+0000] {processor.py:156} INFO - Started process (PID=87) to work on /opt/airflow/dags/astro_sdk.py
+[2024-09-30T19:50:12.592+0000] {processor.py:799} INFO - Processing file /opt/airflow/dags/astro_sdk.py for tasks to queue
+[2024-09-30T19:50:12.592+0000] {logging_mixin.py:149} INFO - [2024-09-30T19:50:12.592+0000] {dagbag.py:541} INFO - Filling up the DagBag from /opt/airflow/dags/astro_sdk.py
+[2024-09-30T19:50:13.900+0000] {processor.py:809} INFO - DAG(s) dict_keys(['calculate_popular_movies']) retrieved from /opt/airflow/dags/astro_sdk.py
+[2024-09-30T19:50:13.912+0000] {logging_mixin.py:149} INFO - [2024-09-30T19:50:13.911+0000] {dag.py:2726} INFO - Sync 1 DAGs
+[2024-09-30T19:50:13.931+0000] {logging_mixin.py:149} INFO - [2024-09-30T19:50:13.931+0000] {dag.py:3490} INFO - Setting next_dagrun for calculate_popular_movies to None, run_after=None
+[2024-09-30T19:50:13.956+0000] {processor.py:178} INFO - Processing /opt/airflow/dags/astro_sdk.py took 1.369 seconds
+[2024-09-30T19:50:47.588+0000] {processor.py:156} INFO - Started process (PID=147) to work on /opt/airflow/dags/astro_sdk.py
+[2024-09-30T19:50:47.590+0000] {processor.py:799} INFO - Processing file /opt/airflow/dags/astro_sdk.py for tasks to queue
+[2024-09-30T19:50:47.590+0000] {logging_mixin.py:149} INFO - [2024-09-30T19:50:47.590+0000] {dagbag.py:541} INFO - Filling up the DagBag from /opt/airflow/dags/astro_sdk.py
+[2024-09-30T19:50:49.279+0000] {processor.py:809} INFO - DAG(s) dict_keys(['calculate_popular_movies']) retrieved from /opt/airflow/dags/astro_sdk.py
+[2024-09-30T19:50:49.400+0000] {logging_mixin.py:149} INFO - [2024-09-30T19:50:49.399+0000] {dag.py:2726} INFO - Sync 1 DAGs
+[2024-09-30T19:50:49.432+0000] {logging_mixin.py:149} INFO - [2024-09-30T19:50:49.432+0000] {dag.py:3490} INFO - Setting next_dagrun for calculate_popular_movies to None, run_after=None
+[2024-09-30T19:50:49.467+0000] {processor.py:178} INFO - Processing /opt/airflow/dags/astro_sdk.py took 1.882 seconds
