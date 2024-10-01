@@ -1,0 +1,14 @@
+C:\Users\PC\Desktop\airflow_2.2.0
+docker build . --tag airflow_2.2.0
+docker build . --tag airflow_2.5.2
+docker build . --tag airflow_2.6.0
+docker build . --tag airflow_1.10.9
+
+
+docker build . --tag apache/airflow:2.5.0
+docker build . --tag apache/airflow:2.6.0
+docker-compose up -d
+
+
+docker ps
+docker inspect bridge
